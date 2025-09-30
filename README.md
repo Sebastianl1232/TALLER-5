@@ -1,4 +1,8 @@
 # Taller en Clase – Aplicando el análisis semántico y la generación de código
+## Nombre integrantes
+Jhon Sebastian Lema Montoya
+Rafael herney jamanoy guerrero
+Brayan Esmith Gil Alvarez
 
 ## Objetivo
 Aplicar los conceptos de análisis semántico, código intermedio, optimización y código destino en ejercicios prácticos distintos a los vistos en la explicación.
